@@ -8,7 +8,7 @@ The mention of commercial products, their sources, or their use in connection wi
 
 This document provides installation instructions for the application that provides a graphical interface (GUI) for controlling an XArm robotic system and visualizing data using a PyQt5-based GUI. The application allows you to manage, analyze, and plot data from connected instruments using libraries like NumPy, pandas, and qwt.
 
-**This code (python code – see ‘armsystem.txt’) has only been tested under Ubuntu 20.04 LTS version; it is not guaranteed to operate on any other environment.**
+**This code (python code – see ‘armsystem.txt’) has only been tested under Ubuntu 20.04/22.04 LTS version; it is not guaranteed to operate on any other environment.**
 
 ## Features
 - **GUI Interface:** Built using PyQt5 for intuitive user interaction.
