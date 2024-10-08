@@ -1,6 +1,9 @@
 # Robotic-Arm-TF-Measurement-System
 Source code and instruction to robotic arm transfer function measurement system developed by Dr. Ji Chen's lab at University of Houston
 
+![system_schematic_and_pic](images/armsystem.jpg)
+
+
 # Installation Instructions for the Curved Trajectory TF Measurement System Application GUI (version 2.5)
 
 **Disclaimer:**  
